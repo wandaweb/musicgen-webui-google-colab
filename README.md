@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/184dv-vkLLpRMaAlV_t30Qv76nnH5H2Mh
 Google colab notebook for MusicGen WebUI by CoffeVampir3  
 https://colab.research.google.com/drive/18nR6kF8dLLRCugnHuqjbyG70IOC7Dl-q
 
-Github repositories:
+Github repositories:  
 https://github.com/facebookresearch/audiocraft  
 https://github.com/1aienthusiast/audiocraft-infinity-webui  
 https://github.com/GrandaddyShmax/audiocraft_plus  
